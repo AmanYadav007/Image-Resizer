@@ -38,7 +38,7 @@
 *Preview the resized image before downloading.*
 
 ## Support and Contact
-For support or any inquiries, please contact Aman Yadav at [your-email@example.com].
+For support or any inquiries, please contact Aman Yadav at [amanry3000@gmail.com].
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
