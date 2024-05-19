@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Resizer</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Image Resizer</h1>
+        <div class="upload-section">
+            <input type="file" id="upload" accept="image/*">
+        </div>
+        <div class="input-section">
+            <input type="number" id="width" placeholder="Width" class="dimension-input">
+            <input type="number" id="height" placeholder="Height" class="dimension-input">
+        </div>
+        <div class="format-section">
+            <label for="format">Format:</label>
+            <select id="format">
+                <option value="png">PNG</option>
+                <option value="jpeg">JPG</option>
+            </select>
+        </div>
+        <button id="previewButton">Preview</button>
+        <button id="resizeButton">Resize and Download</button>
+        <div class="preview-section">
+            <h2>Preview:</h2>
+            <div id="previewContainer">
+                <img id="preview" alt="Your preview will appear here" />
+                <p id="placeholder">No image selected</p>
+            </div>
+        </div>
+    </div>
+    <canvas id="canvas" style="display:none;"></canvas>
+
+    <script src="script.js"></script>
+</body>
+</html>
