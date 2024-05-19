@@ -1,6 +1,6 @@
 # Image Resizer - Resize, Preview, and Download Images
 
-![Image Resizer Logo](path/to/your/icon128.png)
+![Image Resizer Logo](https://lh3.googleusercontent.com/ekKJDZ92-1GPwz--n1JaX1llYjAxQDDP6lUsMTaElguM42LaWH4ltIw2tUb2rvz8Jij_VglteMopaYbU-kpGs8OX2FU=s32-rw)
 
 ## Overview
 **Image Resizer** is a user-friendly Chrome extension that allows you to easily resize images, preview the resized version, and download them in PNG or JPG format. Whether you are a blogger, web designer, or social media manager, this tool simplifies the process of image resizing, helping you save time and boost productivity.
