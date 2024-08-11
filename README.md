@@ -14,7 +14,7 @@
 - **Intuitive Interface:** Simple and straightforward design makes resizing images a breeze.
 
 ## How to Install
-1. Visit the [Chrome Web Store](https://chrome.google.com/webstore/category/extensions).
+1. Visit the [Chrome Web Store](https://chromewebstore.google.com/detail/image-resizer/bmooadknflpjeaagpaaclbcgdpgglagn?hl=en-US&utm_source=ext_sidebar).
 2. Search for "Image Resizer - Resize, Preview, and Download Images".
 3. Click on "Add to Chrome".
 4. Confirm by clicking "Add Extension" in the popup.
