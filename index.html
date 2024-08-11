@@ -8,13 +8,17 @@
 </head>
 <body>
     <div class="container">
-        <h1>Image Resizer</h1>
+        <h1 class="animate-gradient-text">Image Resizer</h1>
         <div class="upload-section">
             <input type="file" id="upload" accept="image/*">
         </div>
         <div class="input-section">
             <input type="number" id="width" placeholder="Width" class="dimension-input">
             <input type="number" id="height" placeholder="Height" class="dimension-input">
+            <div class="aspect-ratio-section">
+                <input type="checkbox" id="aspectRatioLock" checked>
+                <label for="aspectRatioLock">Lock Aspect Ratio</label>
+            </div>
         </div>
         <div class="format-section">
             <label for="format">Format:</label>
@@ -32,6 +36,8 @@
                 <p id="placeholder">No image selected</p>
             </div>
         </div>
+        
+        
     </div>
     <canvas id="canvas" style="display:none;"></canvas>
 
